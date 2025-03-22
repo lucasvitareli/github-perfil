@@ -1,8 +1,8 @@
 import React, { useState } from "react"
 
-import Perfil from "./components/Perfil/index"
+import Perfil from "./components/Perfil/Index"
 import Formulario from "./components/Formulario"
-import RepoList from "./components/RepoList"
+import RepoList from "./components/RepoList/RepoList_Index"
 
 
 function App() {
